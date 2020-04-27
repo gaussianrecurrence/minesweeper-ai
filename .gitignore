@@ -1,0 +1,6 @@
+.idea
+.venv
+.tfboard
+.checkpoints
+
+__pycache__
